@@ -24,6 +24,7 @@ public class Pibonach {
 		System.out.println();
 		
 		
+		
 		//2번째 방법 그냥..
 		//a1=1, a2=1
 		int prevPrevNum = 1; //An-2

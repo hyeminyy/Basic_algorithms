@@ -21,6 +21,7 @@ public class Mode {
 		
 		int modeNum = 0;//최빈수 
 		int modeCnt = 0;//최빈수가 나온 횟수 
+		
 		for(int i=0; i<10; i++) {
 		
 			if(modeCnt < mode[i]) {
